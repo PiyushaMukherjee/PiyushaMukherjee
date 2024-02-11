@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Piyusha Mukherjee</h1>
 <h3 align="center">Avid web developer and tech enthusiast with a flair for programming and a keen interest in mastering Data Science.</h3>
-<img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="300px" width="300px">
+<img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="300px" width="400px">
 - 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
