@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/PiyushaMukherjee/PiyushaMukherjee/blob/main/background/Piyusha%20Mukherjee3.png)
-<h1 align="center">Hi 👋, I'm Piyusha Mukherjee</h1>
+<h1 align="center">👋, I'm Piyusha Mukherjee</h1>
 <h3 align="center">Avid web developer and tech enthusiast with a flair for programming and a keen interest in mastering Data Science.</h3>
 <img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="200px" width="250px">
 - 🌱 I’m currently learning **MERN**
