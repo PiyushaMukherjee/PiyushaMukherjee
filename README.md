@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={piyushamkj}" alt="LeetCode Badges"/>
 <h1 align="center"> I'm Piyusha Mukherjee</h1>
 <h3 align="center">Avid web developer and tech enthusiast with a flair for programming .</h3>
 <img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="200px" width="250px">
