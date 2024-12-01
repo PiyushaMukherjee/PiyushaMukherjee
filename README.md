@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <a href= "https://www.tableau.com/" <img src="https://thinklytics.com/wp-content/uploads/2017/07/tableau-logo-tableau-software.jpg"width="40" height="40" /> </a>
 
-<h2 align="center">My LeetCoins<h2>  
+<h2 align="center">My LeetCoins🪙<h2>  
 <p align="center">
   <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="100" width="100" /></a>
