@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> I'm Piyusha Mukherjee</h1>
 <h3 align="center">Avid web developer and tech enthusiast with a flair for programming .</h3>
 <img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="200px" width="250px">
-- 🌱 I’m currently learning **MERN**
+- 🌱 A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
