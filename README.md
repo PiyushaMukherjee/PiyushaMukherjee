@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Piyusha Mukherjee
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Piyusha Mukherjee
 </h2>
 
 <p align="center" display="block">
