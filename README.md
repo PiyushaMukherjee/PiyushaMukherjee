@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> I'm Piyusha Mukherjee</h1>
+   <h1 align="center"> I'm Piyusha Mukherjee</h1>
 <h3 align="center">Avid web developer and tech enthusiast with a flair for programming .</h3>
 <img align="right" alt="code" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" height="200px" width="250px">
 - 🌱 A Fullstack Dev who loves working in Javascript Ecosystem and a serverless fanatic!
@@ -30,19 +30,10 @@ Here are some ideas to get you started:
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <a href= "https://www.tableau.com/" <img src="https://thinklytics.com/wp-content/uploads/2017/07/tableau-logo-tableau-software.jpg"width="40" height="40" /> </a>
 
-<h2 align="center">My LeetCoins🪙<h2>  
-<p align="center">
-  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
-</p>
-<p align="center">
-
 
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ayush Bansal 
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Piyusha Mukherjee
 </h2>
 
 <p align="center" display="block">
@@ -54,19 +45,19 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 📚 Computer Science Student at <a href="http://nsut.ac.in/">Netaji Subhas University of Technology(NSUT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 📚 Computer Science Student at <a href="http://nsut.ac.in/">SRM University AP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 👨‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
 - 🔭 Looking to collaborate on Web development Projects.
 - 🌱 Love Exploring New Technologies.
-- ⚡ Fun fact I love Leading Projects 💖
+- ⚡ Fun fact I love fixing bugs. 💖
 
   😃 Feel free to check out my repositories and Contact me.
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:ayushbansal162@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
-<a href="www.linkedin.com/in/ayushbansal111" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
- <a href="https://instagram.com/ayush_bansal13" target="_blank">
+<a href="mailto:piyushamkj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
+<a href="www.linkedin.com/in/piyushamukherjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+ <a href="https://instagram.com/pewwwshaaa_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a> 
 <br />
@@ -101,5 +92,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+
+<h2 align="center">My LeetCoins🪙<h2>  
+<p align="center">
+  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/piyushamkj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
+</p>
+<p align="center">
 
 
