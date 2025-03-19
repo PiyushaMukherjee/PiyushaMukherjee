@@ -1,13 +1,13 @@
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47ixxw0trrs99tumkkraf5o7gz0m3umpy5cssz1b2o&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="30"> I'm Piyusha Mukherjee
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Piyusha Mukherjee
 </h2>
 
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&vCenter=true&center=true&font=Fira+Code&pause=700&color=FF6A00&width=700&lines=👨‍💻+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="370" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U0bWo0dGlvMjI1d3djOXJvb2ZxeDA3MTJ5dDNzODRxYTRxNHBjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47l2pbz16xlcnbu1q233bmxnmx2tbhpjaerrgzmifn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <br><br>
 
 ### About Me
