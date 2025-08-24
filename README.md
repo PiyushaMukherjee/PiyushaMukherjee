@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Piyusha Mukherjee
 </h2>
-
+ 
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&vCenter=true&center=true&font=Fira+Code&pause=700&color=FF6A00&width=700&lines=👩‍💻+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
